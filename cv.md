@@ -2,8 +2,8 @@
 
 
 ## About me
-> Hello, world! 
-My name is Darya (Dasha) Nefedova.
+Hello, world! <br>
+**My name is Darya (Dasha) Nefedova.**
 
 - 👩‍🎓 [RS School student](https://app.rs.school/profile?githubId=DarJigoky)
 - 👩‍🎓 [SoloLearn student](https://www.sololearn.com/ru/profile/14791194)
